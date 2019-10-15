@@ -1,0 +1,22 @@
+.active {
+  background-color: navy;
+  color: white;
+}
+
+.countdown {
+  float: right;
+}
+
+#countdown-clock {
+  font-family: 'Londrina Shadow';
+  font-size: 3em;
+  width: 250px;
+  text-align: center;
+  margin-top: -5px;
+}
+
+main {
+  width: 250px;
+  font-size: 1.6em;
+  font-family: 'Francois One';
+}
